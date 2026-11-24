@@ -1,0 +1,16 @@
+metric,value
+variant,20.0
+seed,2026.0
+groups_multi,17.0
+photos_in_groups,35.0
+random_torn_mean,8.06
+random_train_test_mean,3.66
+group_split_torn,0.0
+val_photos,115.0
+val_with_box,54.0
+val_with_mask,115.0
+test_photos,691.0
+test_with_box,349.0
+test_with_mask,691.0
+breed_share_min,
+breed_share_max,
